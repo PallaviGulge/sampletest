@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Log:WebDriver session is created]]>
+    </line>
+    <line>
+      <![CDATA[Log:Swaglabs application open!]]>
+    </line>
+    <line>
+      <![CDATA[Log:User Login is completed!]]>
+    </line>
+    <line>
+      <![CDATA[Log:Total Product count is calculated !]]>
+    </line>
+    <line>
+      <![CDATA[Log:Product added into cart]]>
+    </line>
+    <line>
+      <![CDATA[Log:Order completed!]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-11-14T14:19:57 IST" name="Suite" finished-at="2023-11-14T14:20:21 IST" duration-ms="24635">
+    <groups>
+    </groups>
+    <test started-at="2023-11-14T14:19:57 IST" name="Test" finished-at="2023-11-14T14:20:21 IST" duration-ms="24635">
+      <class name="com.SwagLabs.TestPage.OverviewPageTest">
+        <test-method is-config="true" signature="reportSetUp()[pri:0, instance:com.SwagLabs.TestPage.OverviewPageTest@352c308]" started-at="2023-11-14T14:19:57 IST" name="reportSetUp" finished-at="2023-11-14T14:19:57 IST" duration-ms="26" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportSetUp -->
+        <test-method is-config="true" signature="browserSetUp()[pri:0, instance:com.SwagLabs.TestPage.OverviewPageTest@352c308]" started-at="2023-11-14T14:19:57 IST" name="browserSetUp" finished-at="2023-11-14T14:20:10 IST" duration-ms="13177" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Log:WebDriver session is created]]>
+            </line>
+            <line>
+              <![CDATA[Log:Swaglabs application open!]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- browserSetUp -->
+        <test-method is-config="true" signature="pageSetUp()[pri:0, instance:com.SwagLabs.TestPage.OverviewPageTest@352c308]" started-at="2023-11-14T14:20:10 IST" name="pageSetUp" finished-at="2023-11-14T14:20:20 IST" duration-ms="10493" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Log:User Login is completed!]]>
+            </line>
+            <line>
+              <![CDATA[Log:Total Product count is calculated !]]>
+            </line>
+            <line>
+              <![CDATA[Log:Product added into cart]]>
+            </line>
+            <line>
+              <![CDATA[Log:Order completed!]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- pageSetUp -->
+        <test-method signature="verifyOrderSummary()[pri:1, instance:com.SwagLabs.TestPage.OverviewPageTest@352c308]" started-at="2023-11-14T14:20:21 IST" name="verifyOrderSummary" finished-at="2023-11-14T14:20:21 IST" duration-ms="63" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyOrderSummary -->
+        <test-method signature="verifyCompleteOrder()[pri:2, instance:com.SwagLabs.TestPage.OverviewPageTest@352c308]" started-at="2023-11-14T14:20:21 IST" name="verifyCompleteOrder" finished-at="2023-11-14T14:20:21 IST" duration-ms="280" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCompleteOrder -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.SwagLabs.TestPage.OverviewPageTest@352c308]" started-at="2023-11-14T14:20:21 IST" name="tearDown" finished-at="2023-11-14T14:20:21 IST" duration-ms="529" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="exitReport()[pri:0, instance:com.SwagLabs.TestPage.OverviewPageTest@352c308]" started-at="2023-11-14T14:20:22 IST" name="exitReport" finished-at="2023-11-14T14:20:23 IST" duration-ms="102" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exitReport -->
+      </class> <!-- com.SwagLabs.TestPage.OverviewPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
