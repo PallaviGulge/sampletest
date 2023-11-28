@@ -20,16 +20,16 @@
       <![CDATA[Log:Order completed!]]>
     </line>
   </reporter-output>
-  <suite started-at="2023-11-14T17:04:21 IST" name="Suite" finished-at="2023-11-14T17:04:41 IST" duration-ms="20051">
+  <suite started-at="2023-11-28T10:14:45 IST" name="Suite" finished-at="2023-11-28T10:14:58 IST" duration-ms="13012">
     <groups>
     </groups>
-    <test started-at="2023-11-14T17:04:21 IST" name="Test" finished-at="2023-11-14T17:04:41 IST" duration-ms="20051">
+    <test started-at="2023-11-28T10:14:45 IST" name="Test" finished-at="2023-11-28T10:14:58 IST" duration-ms="13012">
       <class name="com.SwagLabs.TestPage.OverviewPageTest">
-        <test-method is-config="true" signature="reportSetUp()[pri:0, instance:com.SwagLabs.TestPage.OverviewPageTest@4cc547a]" started-at="2023-11-14T17:04:21 IST" name="reportSetUp" finished-at="2023-11-14T17:04:21 IST" duration-ms="16" status="PASS">
+        <test-method is-config="true" signature="reportSetUp()[pri:0, instance:com.SwagLabs.TestPage.OverviewPageTest@16746061]" started-at="2023-11-28T10:14:45 IST" name="reportSetUp" finished-at="2023-11-28T10:14:45 IST" duration-ms="18" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- reportSetUp -->
-        <test-method is-config="true" signature="browserSetUp()[pri:0, instance:com.SwagLabs.TestPage.OverviewPageTest@4cc547a]" started-at="2023-11-14T17:04:21 IST" name="browserSetUp" finished-at="2023-11-14T17:04:33 IST" duration-ms="12501" status="PASS">
+        <test-method is-config="true" signature="browserSetUp()[pri:0, instance:com.SwagLabs.TestPage.OverviewPageTest@16746061]" started-at="2023-11-28T10:14:45 IST" name="browserSetUp" finished-at="2023-11-28T10:14:50 IST" duration-ms="4722" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Log:WebDriver session is created]]>
@@ -39,7 +39,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- browserSetUp -->
-        <test-method is-config="true" signature="pageSetUp()[pri:0, instance:com.SwagLabs.TestPage.OverviewPageTest@4cc547a]" started-at="2023-11-14T17:04:33 IST" name="pageSetUp" finished-at="2023-11-14T17:04:40 IST" duration-ms="6886" status="PASS">
+        <test-method is-config="true" signature="pageSetUp()[pri:0, instance:com.SwagLabs.TestPage.OverviewPageTest@16746061]" started-at="2023-11-28T10:14:50 IST" name="pageSetUp" finished-at="2023-11-28T10:14:57 IST" duration-ms="7525" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Log:User Login is completed!]]>
@@ -55,19 +55,19 @@
             </line>
           </reporter-output>
         </test-method> <!-- pageSetUp -->
-        <test-method signature="verifyOrderSummary()[pri:1, instance:com.SwagLabs.TestPage.OverviewPageTest@4cc547a]" started-at="2023-11-14T17:04:40 IST" name="verifyOrderSummary" finished-at="2023-11-14T17:04:40 IST" duration-ms="46" status="PASS">
+        <test-method signature="verifyOrderSummary()[pri:1, instance:com.SwagLabs.TestPage.OverviewPageTest@16746061]" started-at="2023-11-28T10:14:57 IST" name="verifyOrderSummary" finished-at="2023-11-28T10:14:57 IST" duration-ms="61" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyOrderSummary -->
-        <test-method signature="verifyCompleteOrder()[pri:2, instance:com.SwagLabs.TestPage.OverviewPageTest@4cc547a]" started-at="2023-11-14T17:04:40 IST" name="verifyCompleteOrder" finished-at="2023-11-14T17:04:40 IST" duration-ms="292" status="PASS">
+        <test-method signature="verifyCompleteOrder()[pri:2, instance:com.SwagLabs.TestPage.OverviewPageTest@16746061]" started-at="2023-11-28T10:14:57 IST" name="verifyCompleteOrder" finished-at="2023-11-28T10:14:58 IST" duration-ms="354" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyCompleteOrder -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.SwagLabs.TestPage.OverviewPageTest@4cc547a]" started-at="2023-11-14T17:04:40 IST" name="tearDown" finished-at="2023-11-14T17:04:41 IST" duration-ms="268" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.SwagLabs.TestPage.OverviewPageTest@16746061]" started-at="2023-11-28T10:14:58 IST" name="tearDown" finished-at="2023-11-28T10:14:58 IST" duration-ms="288" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="exitReport()[pri:0, instance:com.SwagLabs.TestPage.OverviewPageTest@4cc547a]" started-at="2023-11-14T17:04:41 IST" name="exitReport" finished-at="2023-11-14T17:04:42 IST" duration-ms="157" status="PASS">
+        <test-method is-config="true" signature="exitReport()[pri:0, instance:com.SwagLabs.TestPage.OverviewPageTest@16746061]" started-at="2023-11-28T10:14:59 IST" name="exitReport" finished-at="2023-11-28T10:14:59 IST" duration-ms="175" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- exitReport -->
